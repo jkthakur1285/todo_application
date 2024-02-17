@@ -1,24 +1,8 @@
-# README
+# Todo Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the Todo Application! This is a simple application built with Ruby on Rails for managing your daily tasks.
 
-Things you may want to cover:
+## Deployment
 
-* Ruby version
+The application is deployed and accessible at [https://todo-application-r3yb.onrender.com/](https://todo-application-r3yb.onrender.com/).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
